@@ -87,5 +87,5 @@ Technical Documentation Page user stories and requirements.
 This project is provided for portfolio and educational review only. 
 Copying, redistribution, or commercial use is prohibited. 
 
-This project is licensed under a Source Code Proprietary License. 
+This project is licensed under a Midnight Developer Proprietary License. 
 See the [LICENSE](https://github.com/Midnight-Developer-ts/personal-portfolio-project/blob/main/LICENSE) file for full terms.
