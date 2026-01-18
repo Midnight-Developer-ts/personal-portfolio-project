@@ -64,7 +64,7 @@ portfolio-project/ | `project main folder`
 
 │   └── survey-form-page.jpeg | `project preview`
 
-│── LICENSE | `project license`
+│── LICENSE | `license details`
 
 │── README.md | `project details`
 
