@@ -58,7 +58,7 @@ portfolio-project/ | `project main folder`
 
 │   └── website-preview.png | `preview image`
 
-│   └── product-landing-page.png | `project preview`
+│   └── band-website-in-the-shadows.png | `project preview`
 
 │   └── technical-documentation-page.jpeg | `project preview`
 
