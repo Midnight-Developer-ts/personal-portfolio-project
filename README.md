@@ -35,7 +35,7 @@ CSS – styling, responsive layout, fixed navigation, hover effects
 - Gothic-inspired yet professional visual theme.
 
 ## 🚀 How to Use
-<a href="https://midnight-developer-ts.github.io/personal-portfolio-project/">Click here to view the project</a>
+[`View Live Project`](https://midnight-developer-ts.github.io/personal-portfolio-project/)
 
 1. Use the navbar to explore each section of the page.
 2. Scroll through to view About, Skills, Tools, Projects, and contact sections.
@@ -63,6 +63,8 @@ portfolio-project/ | `project main folder`
 │   └── technical-documentation-page.jpeg | `project preview`
 
 │   └── survey-form-page.jpeg | `project preview`
+
+│── LICENSE | `project license`
 
 │── README.md | `project details`
 
