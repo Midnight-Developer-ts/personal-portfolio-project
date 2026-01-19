@@ -1,13 +1,10 @@
 # 💼 Personal Portfolio Webpage
 
 ## 📖 Overview
-This project is part of my FreeCodeCamp Responsive Web Design Certification.
+This is my first minimal personal portfolio, created as part of my FreeCodeCamp Responsive Web Design Certification. The objective was to build a fully responsive personal portfolio webpage using only HTML and CSS that showcases my projects, skills, and contact information.
 
-The objective was to build a Personal Portfolio Webpage using only HTML and CSS. A fully responsive site that showcases my projects, skills, and contact information while fulfilling all FreeCodeCamp’s user stories.
+I designed this portfolio under my developer alias, Midnight Developer, to relect both my professional work and creative flair. The project demonstrates navigation structure, responsive layout, section organization, and interactive styling. This portfolio serves as my temporary developer portfolio and includes a welcome section, about section, tech stack overview, tools and platforms I use, project previews, and contact links, all presented in a clean, accessible design.
 
-I designed this portfolio for my developer alias, “Midnight Developer”, to reflect both my professional work and creative flair. The project demonstrates navigation structure, responsive layout, section organization, and interactive styling.
-
-The page serves as my developer portfolio, featuring a welcome section, about section, tech stack overview, tools I use, project previews, and contact links all in a clean, accessible design.
 
 ## ✨ Features
 - Fixed top navigation bar that remains visible while scrolling.
@@ -44,7 +41,7 @@ CSS – styling, responsive layout, fixed navigation, hover effects
 5. Resize the browser window to see responsive adjustments.
 
 ## 📂 Project Structure
-portfolio-project/ | `project main folder`
+portfolio-project/ | `root file`
 
 │── index.html | `main webpage`
 
@@ -85,7 +82,6 @@ Technical Documentation Page user stories and requirements.
 [`View Live Project`](https://midnight-developer-ts.github.io/personal-portfolio-project/)
 
 ## 📄 License 
-
 This project is provided for portfolio and educational review only. 
 Copying, redistribution, or commercial use is prohibited. 
 
