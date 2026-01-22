@@ -1,4 +1,4 @@
-# 💼 Personal Portfolio Webpage
+# 💼 Personal Portfolio Project
 
 ## 📖 Overview
 This is my first minimal personal portfolio, created as part of my FreeCodeCamp Responsive Web Design Certification. The objective was to build a fully responsive personal portfolio webpage using only HTML and CSS that showcases my projects, skills, and contact information.
@@ -17,9 +17,8 @@ I designed this portfolio under my developer alias, Midnight Developer, to relec
 - Smooth scrolling navigation and hover effects throughout.
 
 ## 🛠️ Built With
-HTML – semantic structure, multi-section layout
-
-CSS – styling, responsive layout, fixed navigation, hover effects
+- HTML – structure
+- CSS – styling
 
 ## 🧰 Skills Demonstrated
 - Semantic HTML structuring.
@@ -41,7 +40,7 @@ CSS – styling, responsive layout, fixed navigation, hover effects
 5. Resize the browser window to see responsive adjustments.
 
 ## 📂 Project Structure
-portfolio-project/ | `root file`
+personal-portfolio-project/ | `root folder`
 
 │── index.html | `main webpage`
 
@@ -74,7 +73,7 @@ portfolio-project/ | `root file`
 
 ## 🎯 Certification Compliance
 This project fully meets all FreeCodeCamp Responsive Web Design
-Technical Documentation Page user stories and requirements.
+Personal Portfolio user stories and requirements.
 
 ## 📸 Preview
 ![Personal Portfolio Project Page Screenshot](./images/website-preview.png)
