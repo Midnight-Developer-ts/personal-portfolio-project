@@ -130,7 +130,6 @@ li a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #b39eb5;
 }
 
 .intro-title {
@@ -138,14 +137,18 @@ li a {
   font-family: Caveat, sans-serif;
   font-size: 4rem;
   text-align: center;
+  color: white;
   text-shadow: 1px 5px 10px #242124;
+  z-index: 2;
 }
 
 .intro-job {
   margin: 0;
   font-family: DM Serif Text, sans-serif;
   font-size: 30px;
+  color: white;
   text-shadow: 1px 5px 10px #242124;
+  z-index: 2;
 }
 /* about section -------------------------- */
 .about-section {
@@ -414,7 +417,30 @@ li a {
   grid-gap: 1rem;
 }
 
-img {
+.intro-img {
+  position: absolute;
+  top: 60px;
+  right: 0;
+  width: 100%;
+  height: 95vh;
+  z-index: 1;
+  object-fit: cover;
+  object-position: 0% 25%;
+  box-shadow: 0 0 10px black;
+}
+
+.about-img {
+  margin-top: 2rem;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  object-fit: cover;
+  object-position: 0% 25%;
+  border: 3px solid black;
+  box-shadow: 0 0 10px black;
+}
+
+.project-img {
   width: 100%;
   height: 200px;
   object-fit: cover;
@@ -432,7 +458,7 @@ img {
   transition: transform 0.2s ease, background-color 0.2s ease;
 }
 
-.project-tile:hover img {
+.project-tile:hover .project-img {
   transform: scale(1.05);
 }
 
@@ -480,7 +506,7 @@ img {
 }
 /* contact section ----------------- */
 .contact-title {
-  margin: 0 0 2rem 0;
+  margin: 0 0 1.5rem 0;
   font-size: 2rem;
   font-family: DM Serif Text, sans-serif;
   display: flex;
@@ -512,6 +538,22 @@ img {
 .contact a:hover {
   transform: translateY(3px);
   color: #8a2be2;
+}
+
+.email {
+  margin: 1rem 0 2rem 0;
+  font-size: 16px;
+  font-family: DM Serif Text, sans-serif;
+  color: white;
+  text-shadow: 2px 7px 3px black;
+}
+
+.email-space {
+  margin-left: 0.8rem;
+  font-size: 16px;
+  font-family: DM Serif Text, sans-serif;
+  color: white;
+  text-shadow: 2px 7px 3px black;
 }
 /* footer section ----------------- */
 footer {
@@ -582,6 +624,17 @@ footer {
     margin: 1rem 0;
     font-size: 1.5rem;
   }
+
+  .logo {
+    margin: 0 0.5rem;
+    font-size: 1.8rem;
+  }
+
+  .logo:hover {
+    margin: 0 0.5rem;
+    font-size: 1.8rem;
+  }
+
   /* mobile welcome section ----------- */
   .welcome-section {
     height: 400px;
