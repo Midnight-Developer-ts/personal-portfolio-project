@@ -48,7 +48,7 @@ personal-portfolio-project/ | `root folder`
 
 │   └── styles.css | `styling`
 
-│── images/ | `images folder`
+│── img/ | `images folder`
 
 │   └── website-favicon.png | `favicon`
 
@@ -76,7 +76,7 @@ This project fully meets all FreeCodeCamp Responsive Web Design
 Personal Portfolio user stories and requirements.
 
 ## 📸 Preview
-![Personal Portfolio Project Page Screenshot](./images/website-preview.png)
+![Personal Portfolio Project Page Screenshot](./img/website-preview.png)
 
 [`View Live Project`](https://midnight-developer-ts.github.io/personal-portfolio-project/)
 
