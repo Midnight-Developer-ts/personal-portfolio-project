@@ -3,7 +3,7 @@
 ## 📖 Overview
 This is my first minimal personal portfolio, created as part of my FreeCodeCamp Responsive Web Design Certification. The objective was to build a fully responsive personal portfolio webpage using only HTML and CSS that showcases my projects, skills, and contact information.
 
-I designed this portfolio under my developer alias, Midnight Developer, to relect both my professional work and creative flair. The project demonstrates navigation structure, responsive layout, section organization, and interactive styling. This portfolio serves as my temporary developer portfolio and includes a welcome section, about section, tech stack overview, tools and platforms I use, project previews, and contact links, all presented in a clean, accessible design.
+I designed this portfolio under my developer alias, Vynxcode, to relect both my professional work and creative flair. The project demonstrates navigation structure, responsive layout, section organization, and interactive styling. This portfolio serves as my temporary developer portfolio and includes a welcome section, about section, tech stack overview, tools and platforms I use, project previews, and contact links, all presented in a clean, accessible design.
 
 
 ## ✨ Features
@@ -31,7 +31,7 @@ I designed this portfolio under my developer alias, Midnight Developer, to relec
 - Gothic-inspired yet professional visual theme.
 
 ## 🚀 How to Use
-[`View Live Project`](https://midnight-developer-ts.github.io/personal-portfolio-project/)
+[`View Live Project`](https://vynxcode-ts.github.io/personal-portfolio-project/)
 
 1. Use the navbar to explore each section of the page.
 2. Scroll through to view About, Skills, Tools, Projects, and contact sections.
@@ -50,9 +50,13 @@ personal-portfolio-project/ | `root folder`
 
 │── img/ | `images folder`
 
-│   └── website-favicon.png | `favicon`
+│   └── website-favicon.svg | `favicon`
 
 │   └── website-preview.png | `preview image`
+
+│   └── background-image.jpg | `hero background image`
+
+│   └── vynxcode-profile-picture.jpg | `vynxcode's aka Tiffany's photo`
 
 │   └── band-website-in-the-shadows.png | `project preview`
 
@@ -78,11 +82,11 @@ Personal Portfolio user stories and requirements.
 ## 📸 Preview
 ![Personal Portfolio Project Page Screenshot](./img/website-preview.png)
 
-[`View Live Project`](https://midnight-developer-ts.github.io/personal-portfolio-project/)
+[`View Live Project`](https://vynxcode-ts.github.io/personal-portfolio-project/)
 
 ## 📄 License 
 This project is provided for portfolio and educational review only. 
 Copying, redistribution, or commercial use is prohibited. 
 
-This project is licensed under a Midnight Developer Proprietary License. 
-See the [LICENSE](https://github.com/Midnight-Developer-ts/personal-portfolio-project/blob/main/LICENSE) file for full terms.
+This project is licensed under a Vynxcode Proprietary License. 
+See the [LICENSE](https://github.com/vynxcode-ts/personal-portfolio-project/blob/main/LICENSE) file for full terms.
